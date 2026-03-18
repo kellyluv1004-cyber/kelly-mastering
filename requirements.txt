@@ -1,0 +1,4 @@
+streamlit
+pedalboard
+pyloudnorm
+numpy
